@@ -1,21 +1,16 @@
 {
-  "name": "jsonapi",
+  "name": "json-server-deploy",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple json database to deploy to the host of your choice",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Akash-Edake/jsonapi.git"
-  },
-  "author": "",
+  "keywords": [
+    "ninjakodtv, json-server,heroku, node, REST API"
+  ],
+  "author": "Ninjakod TV Mehmet Yılmaz",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Akash-Edake/jsonapi/issues"
-  },
-  "homepage": "https://github.com/Akash-Edake/jsonapi#readme",
   "dependencies": {
     "json-server": "^0.17.0"
   }
