@@ -1,10 +1,11 @@
 //const items = require("./data/items");
-//const tags = require("./data/tags");
+const tags = require("./data/ecommerce.json");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
 module.exports = {
   brands,
+  ecommerce,
   itemTypes
 }
 
