@@ -5,8 +5,6 @@ const itemTypes = require("./data/itemTypes");
 
 module.exports = {
   items,
-  tags,
-  brands,
   itemTypes
 }
 
