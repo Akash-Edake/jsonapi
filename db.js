@@ -1,5 +1,5 @@
 //const items = require("./data/items");
-const tags = require("./data/ecommerce.json");
+const tags = require("./data/ecommerce");
 const brands = require("./data/brands");
 const itemTypes = require("./data/itemTypes");
 
