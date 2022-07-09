@@ -1,10 +1,10 @@
 //const items = require("./data/items");
-const tags = require("./data/ecommerce");
+// const tags = require("./data/ecommerce");
 const brands = require("./data/brands");
-const brands = require("./data/cart");
-const brands = require("./data/category");
-const brands = require("./data/product");
-const brands = require("./data/users");
+const cart = require("./data/cart");
+const category = require("./data/category");
+const product = require("./data/product");
+const users = require("./data/users");
 // const itemTypes = require("./data/");
 
 module.exports = {
